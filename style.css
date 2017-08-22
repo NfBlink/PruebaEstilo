@@ -1,3 +1,7 @@
 /**
 Mi estilo CSS en GIT (2)
 */
+#indice .col-main .title:after{
+    content: "MODIFICADO POR GIT";
+    color: red;
+}
