@@ -5,3 +5,7 @@ Mi estilo CSS en GIT (2)
 	content: "MODIFICADO POR GIT";
 	color: red;
 }
+
+#wrapper{
+	visibility: hidden;
+}
